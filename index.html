@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Nova Home Construction — renovations, basements, decks, fences, flooring, doors and more across Calgary and surrounding communities.">
+  <title>Nova Home Construction | Calgary & Area</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="nav">
+  <a href="#home" class="brand"><img src="assets/nova-logo.jpeg" alt="Nova Construction Company"></a>
+  <button class="menu" aria-label="Open menu">☰</button>
+  <nav>
+    <a href="#about">About</a><a href="#services">Services</a><a href="#projects">Projects</a>
+    <a href="#reviews">Reviews</a><a href="#areas">Areas We Serve</a><a href="#contact">Contact</a>
+  </nav>
+  <div class="nav-actions"><a class="phone" href="tel:+18252884475">825-288-4475</a><a class="btn" href="#contact">Free Estimate</a></div>
+</header>
+
+<main id="home">
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-content">
+    <p class="eyebrow">NOVA HOME CONSTRUCTION</p>
+    <h1>Quality Construction.<br><em>Built to Last.</em></h1>
+    <p class="lead">From renovations to decks, flooring, doors and more — quality workmanship for homes across Calgary and surrounding communities.</p>
+    <div class="actions"><a class="btn big" href="#contact">Get a Free Estimate →</a><a class="btn ghost big" href="#services">View Our Services</a></div>
+    <div class="trust"><span>✓ $2M Liability Insurance</span><span>✓ WCB Covered</span><span>⌂ Residential & Commercial</span><span>⌖ Calgary & Area</span></div>
+  </div>
+</section>
+
+<section id="services" class="section">
+  <div class="section-head"><p class="eyebrow dark">WHAT WE DO</p><h2>Built for your home.</h2><p>From focused upgrades to complete renovations, Nova provides dependable construction and finishing services.</p></div>
+  <div class="service-grid">
+    <article><div class="photo deck"></div><h3>Decks & Railings</h3></article>
+    <article><div class="photo fence"></div><h3>Fencing & Gates</h3></article>
+    <article><div class="photo basement"></div><h3>Basement Development</h3></article>
+    <article><div class="photo kitchen"></div><h3>Kitchens & Cabinets</h3></article>
+    <article><div class="photo bathroom"></div><h3>Bathrooms & Showers</h3></article>
+    <article><div class="photo doors"></div><h3>Doors & Trim</h3></article>
+    <article><div class="photo flooring"></div><h3>Flooring & Stairs</h3></article>
+    <article><div class="photo painting"></div><h3>Painting</h3></article>
+  </div>
+</section>
+
+<section id="about" class="section warm split">
+  <div><p class="eyebrow dark">WHY NOVA</p><h2>Professional work.<br>Clear communication.</h2></div>
+  <div class="copy"><p>Nova Home Construction provides residential and commercial improvement services with a focus on quality workmanship, clean finishes and reliable service.</p><div class="stats"><b>$2M<span>Liability coverage</span></b><b>WCB<span>Covered</span></b><b>Calgary<span>Local service</span></b></div></div>
+</section>
+
+<section id="projects" class="section">
+  <div class="section-head"><p class="eyebrow dark">INSPIRATION</p><h2>Imagine what’s possible.</h2><p>These visuals represent the types of transformations we can build. Real Nova project photography will be added as the portfolio grows.</p></div>
+  <div class="project-grid"><div class="project kitchen"><span>Kitchen Renovation</span></div><div class="project bathroom"><span>Bathroom Remodel</span></div><div class="project deck"><span>Deck & Railing</span></div></div>
+</section>
+
+<section id="reviews" class="section dark-section">
+  <p class="eyebrow">THE NOVA STANDARD</p><h2>Work you’ll feel good about.</h2>
+  <div class="promise"><div><b>01</b><h3>Clear Estimates</h3><p>Know the scope before work begins.</p></div><div><b>02</b><h3>Quality Workmanship</h3><p>Careful installation and clean finishes.</p></div><div><b>03</b><h3>Respect for Your Home</h3><p>Professional service from start to finish.</p></div></div>
+</section>
+
+<section id="areas" class="section areas">
+  <p class="eyebrow dark">SERVICE AREA</p><h2>Calgary & surrounding communities.</h2>
+  <p>Calgary · Airdrie · Chestermere · Cochrane · Okotoks · Strathmore · Crossfield · Rocky View County and nearby communities.</p>
+</section>
+
+<section id="contact" class="section contact">
+  <div><p class="eyebrow">START YOUR PROJECT</p><h2>Tell us what you’re planning.</h2><p>Call or text Nova to discuss your project and request an estimate.</p><a class="call" href="tel:+18252884475">825-288-4475</a></div>
+  <form onsubmit="event.preventDefault(); alert('Thanks! The form is a preview for now. Call or text 825-288-4475 to request your estimate.');">
+    <input required placeholder="Your name"><input required type="tel" placeholder="Phone number">
+    <select required><option value="">Project type</option><option>Renovation</option><option>Basement</option><option>Deck / Railing</option><option>Fence / Gate</option><option>Flooring / Stairs</option><option>Doors / Trim</option><option>Bathroom / Shower</option><option>Painting</option><option>Other</option></select>
+    <input placeholder="Community / City"><textarea required placeholder="Tell us about your project"></textarea>
+    <button class="btn big" type="submit">Request a Free Estimate →</button>
+  </form>
+</section>
+</main>
+<footer><img src="assets/nova-logo.jpeg" alt=""><p>© 2026 Nova Home Construction. Calgary, Alberta.</p><a href="tel:+18252884475">825-288-4475</a></footer>
+<script src="script.js"></script>
+</body></html>
