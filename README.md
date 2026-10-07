@@ -22,7 +22,7 @@ Deploy the repository root to a static host. Relative URLs support domain-root a
 - `cinematic.css`: scene composition, page transitions, FAQ and scope layouts.
 - `script.js`: navigation, reveal behavior and enquiry preparation.
 - `cinematic.js`: scroll progress and pinned image sequence.
-- `assets/`: optimized architectural concept imagery.
+- ``: optimized architectural concept imagery.
 
 Business telephone: +1 825-288-4475.
 No analytics, newsletter backend, email delivery, or payment processing is connected.
@@ -50,3 +50,5 @@ Preserve the destination repository's existing configuration and deployment work
 ## Publish with GitHub Pages
 
 Unzip this archive and upload its contents to your repository, with index.html at the root. In GitHub, open Settings > Pages, select Deploy from a branch, then choose main and /(root). Save.
+
+Image files are deliberately at the root. Upload every file from this extracted ZIP alongside index.html. No image folders are required.

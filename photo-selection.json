@@ -33,7 +33,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-02-38 7.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-007.webp",
+    "asset": "selected-007.webp",
     "caption": "Deck with pergola and black railings",
     "categories": [
       "decks"
@@ -63,7 +63,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-08-56.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-012.webp",
+    "asset": "selected-012.webp",
     "caption": "Wood privacy fence with decorative top detail",
     "categories": [
       "fences"
@@ -128,7 +128,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-16-28-03 4.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-024.webp",
+    "asset": "selected-024.webp",
     "caption": "White kitchen with tiled backsplash",
     "categories": [
       "kitchens"
@@ -203,7 +203,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-16-48-21 5.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-038.webp",
+    "asset": "selected-038.webp",
     "caption": "Bathroom with glass shower and illuminated mirror",
     "categories": [
       "bathrooms"
@@ -283,7 +283,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-17-13 7.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-053.webp",
+    "asset": "selected-053.webp",
     "caption": "Open living space with kitchen and staircase",
     "categories": [
       "basements",
@@ -344,7 +344,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-16-48-21 2.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-064.webp",
+    "asset": "selected-064.webp",
     "caption": "Tiled shower and bathroom vanity",
     "categories": [
       "bathrooms"
@@ -784,7 +784,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-02-38 20.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-151.webp",
+    "asset": "selected-151.webp",
     "caption": "Deck stairs with integrated lighting",
     "categories": [
       "decks"
@@ -809,7 +809,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-16-53-25 9.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-155.webp",
+    "asset": "selected-155.webp",
     "caption": "Glass shower with black fixtures",
     "categories": [
       "bathrooms"
@@ -854,7 +854,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-26-48.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-163.webp",
+    "asset": "selected-163.webp",
     "caption": "Coordinated closet and interior doors",
     "categories": [
       "doors"
@@ -864,7 +864,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-26-48 4.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-164.webp",
+    "asset": "selected-164.webp",
     "caption": "Finished stair landing, walls and trim",
     "categories": [
       "basements",
@@ -935,7 +935,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-26-48 7.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-177.webp",
+    "asset": "selected-177.webp",
     "caption": "Entry door and closet doors",
     "categories": [
       "doors"
@@ -950,7 +950,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-02-38 22.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-179.webp",
+    "asset": "selected-179.webp",
     "caption": "Deck surface and black railing details",
     "categories": [
       "decks"
@@ -975,7 +975,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-04-32 5.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-183.webp",
+    "asset": "selected-183.webp",
     "caption": "Wood fence along the side yard",
     "categories": [
       "fences"
@@ -1015,7 +1015,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-04-32 4.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-190.webp",
+    "asset": "selected-190.webp",
     "caption": "Wood privacy gate",
     "categories": [
       "fences"
@@ -1040,7 +1040,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-02-38 25.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-194.webp",
+    "asset": "selected-194.webp",
     "caption": "Raised deck with metal railings",
     "categories": [
       "decks"
@@ -1075,7 +1075,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-16-28-02.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-200.webp",
+    "asset": "selected-200.webp",
     "caption": "Kitchen cabinetry, counters and range hood",
     "categories": [
       "kitchens"
@@ -1150,7 +1150,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-17-17-13 9.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-214.webp",
+    "asset": "selected-214.webp",
     "caption": "Carpeted staircase and landing",
     "categories": [
       "flooring"
@@ -1220,7 +1220,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-16-28-03 16.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-227.webp",
+    "asset": "selected-227.webp",
     "caption": "Cabinetry with under-cabinet lighting",
     "categories": [
       "kitchens"
@@ -1315,7 +1315,7 @@
     "source": "Nova photos/PHOTO-2026-10-06-16-15-26 4.jpg",
     "batch": "Nova photos.zip",
     "selected": true,
-    "asset": "assets/projects/selected-245.webp",
+    "asset": "selected-245.webp",
     "caption": "Continuous flooring and closet storage",
     "categories": [
       "flooring",
@@ -1361,7 +1361,7 @@
     "source": "PHOTO-2026-10-06-16-15-26 2.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-01.webp",
+    "asset": "project-01.webp",
     "caption": "Lower-level room and connecting hallway",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1370,7 +1370,7 @@
     "source": "PHOTO-2026-10-06-16-15-26 4.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-02.webp",
+    "asset": "project-02.webp",
     "caption": "Finished room with closet storage",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1379,7 +1379,7 @@
     "source": "PHOTO-2026-10-06-16-15-26 5.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-03.webp",
+    "asset": "project-03.webp",
     "caption": "Closet opening and interior trim",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1388,7 +1388,7 @@
     "source": "PHOTO-2026-10-06-16-15-26 6.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-04.webp",
+    "asset": "project-04.webp",
     "caption": "Hallway flooring and room connections",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1397,7 +1397,7 @@
     "source": "PHOTO-2026-10-06-16-15-27 10.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-05.webp",
+    "asset": "project-05.webp",
     "caption": "Bathroom doorway and vanity",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1406,7 +1406,7 @@
     "source": "PHOTO-2026-10-06-16-15-27 2.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-06.webp",
+    "asset": "project-06.webp",
     "caption": "Finished room with window and new flooring",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1415,7 +1415,7 @@
     "source": "PHOTO-2026-10-06-16-15-27 3.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-07.webp",
+    "asset": "project-07.webp",
     "caption": "Interior doorway and casing",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1424,7 +1424,7 @@
     "source": "PHOTO-2026-10-06-16-15-27.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-08.webp",
+    "asset": "project-08.webp",
     "caption": "Continuous flooring through the hallway",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1433,7 +1433,7 @@
     "source": "PHOTO-2026-10-06-16-28-03 17.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-09.webp",
+    "asset": "project-09.webp",
     "caption": "Kitchen with white cabinetry and peninsula",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1449,7 +1449,7 @@
     "source": "PHOTO-2026-10-06-16-28-03 7.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-11.webp",
+    "asset": "project-11.webp",
     "caption": "White cabinets with contrasting backsplash",
     "featured_in": [
       "kitchens"
@@ -1460,7 +1460,7 @@
     "source": "PHOTO-2026-10-06-16-48-21 11.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-12.webp",
+    "asset": "project-12.webp",
     "caption": "Glass shower and tile details",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1471,7 +1471,7 @@
       "bathrooms"
     ],
     "selected": true,
-    "asset": "assets/projects/project-13.webp",
+    "asset": "project-13.webp",
     "caption": "Bathroom with glass shower and vanity",
     "featured_in": [
       "bathrooms"
@@ -1482,7 +1482,7 @@
     "source": "PHOTO-2026-10-06-16-53-25 7.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-14.webp",
+    "asset": "project-14.webp",
     "caption": "Shower enclosure and bathroom flooring",
     "featured_in": [],
     "batch": "Initial upload"
@@ -1493,7 +1493,7 @@
       "basements"
     ],
     "selected": true,
-    "asset": "assets/projects/project-15.webp",
+    "asset": "project-15.webp",
     "caption": "Open lower-level living space",
     "featured_in": [
       "basements"
@@ -1504,7 +1504,7 @@
     "source": "PHOTO-2026-10-06-17-17-14 4.jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-16.webp",
+    "asset": "project-16.webp",
     "caption": "Stair treads and adjoining flooring",
     "featured_in": [
       "flooring"
@@ -1518,7 +1518,7 @@
       "painting"
     ],
     "selected": true,
-    "asset": "assets/projects/project-17.webp",
+    "asset": "project-17.webp",
     "caption": "Coordinated interior doors and trim",
     "featured_in": [
       "doors"
@@ -1536,7 +1536,7 @@
     "source": "PHOTO-2026-10-06-17-26-48 14(2).jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-19.webp",
+    "asset": "project-19.webp",
     "caption": "Painted walls, doors and white trim",
     "featured_in": [
       "painting"
@@ -1547,7 +1547,7 @@
     "source": "PHOTO-2026-10-06-17-26-48 17(2).jpg",
     "categories": [],
     "selected": false,
-    "asset": "assets/projects/project-20.webp",
+    "asset": "project-20.webp",
     "caption": "Panelled interior door and hardware",
     "featured_in": [],
     "batch": "Initial upload"
