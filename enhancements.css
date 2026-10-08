@@ -13,3 +13,5 @@ nova-i18n{display:contents}
 .brand:hover img{animation:nova-breathe 5.5s ease-in-out infinite}
 .nova-stats.is-counting>div{animation:stat-arrive .7s ease-out both}.nova-stats.is-counting>div:nth-child(2){animation-delay:.08s}.nova-stats.is-counting>div:nth-child(3){animation-delay:.16s}.nova-stats.is-counting>div:nth-child(4){animation-delay:.24s}@keyframes stat-arrive{from{opacity:.2;transform:translateY(10px)}to{opacity:1;transform:none}}
 @media(prefers-reduced-motion:reduce){.nova-stats.is-counting>div,.brand:hover img{animation:none}}
+
+.honey{position:absolute!important;left:-10000px;opacity:0}.form input[type=file]{max-width:100%}.contact-link{overflow-wrap:anywhere}.floating-contact{display:none}@media(max-width:900px){.floating-contact{display:block;position:fixed;bottom:16px;right:16px;z-index:100;background:#171916;border:1px solid #cdaa74;border-radius:14px;max-width:calc(100vw - 32px)}.floating-contact summary{padding:14px 22px;cursor:pointer;color:#dfc69c}.floating-contact>div{display:grid;padding:18px;gap:16px;overflow-wrap:anywhere}.floating-contact a{color:#eee}.floating-contact p{margin:0}body{padding-bottom:70px}}

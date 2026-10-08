@@ -1,0 +1,11 @@
+name = "nova-estimates"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+[vars]
+ALLOWED_ORIGINS = "https://novahomeconstruction.ca,https://www.novahomeconstruction.ca,https://novaconstructionhome-netizen.github.io"
+ALLOWED_HOSTNAMES = "novahomeconstruction.ca,www.novahomeconstruction.ca,novaconstructionhome-netizen.github.io"
+FROM_EMAIL = "NOVA Home Construction <estimates@requests.novahomeconstruction.ca>"
+[[d1_databases]]
+binding = "DB"
+database_name = "nova-estimate-guard"
+database_id = "REPLACE_WITH_CREATED_DATABASE_ID"
