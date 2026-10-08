@@ -1,0 +1,52 @@
+{
+  "static": {
+    "pages": [
+      "404.html",
+      "index.html",
+      "why-choose-us/index.html",
+      "service-areas/index.html",
+      "reviews/index.html",
+      "projects/index.html",
+      "contact/index.html",
+      "about/index.html",
+      "services/index.html",
+      "our-process/index.html",
+      "free-estimate/index.html",
+      "services/kitchen-renovations/index.html",
+      "services/flooring/index.html",
+      "services/painting/index.html",
+      "services/fences/index.html",
+      "services/doors/index.html",
+      "services/decks/index.html",
+      "services/bathroom-renovations/index.html",
+      "services/basement-development/index.html"
+    ],
+    "errors": [],
+    "imagesPreserved": 52
+  },
+  "manualRequired": [
+    "Desktop/mobile visual review",
+    "3D animation visual timing and interaction",
+    "Live email delivery after configuration",
+    "Live hosting 404 status and redirects"
+  ],
+  "dom": {
+    "pageLanguageRuns": 38,
+    "reversibleSwitches": 76,
+    "passed": true
+  },
+  "backend": {
+    "suites": 4,
+    "passed": 4,
+    "failed": 0,
+    "provider": "mocked"
+  },
+  "frontend": {
+    "mockSubmissionValidation": true,
+    "captchaGate": true,
+    "failureRetainsFields": true,
+    "successRequiresAcceptedResponse": true,
+    "languageStatusSwitch": true
+  },
+  "sourceCommit": "8b3b8fbcb959294e3d033937d33fa7828a802b85"
+}
