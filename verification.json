@@ -1,0 +1,176 @@
+{
+  "checks": [
+    {
+      "page": "about.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "areas.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "areas.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "basements.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "basements.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "bathrooms.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "bathrooms.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "contact.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "contact.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "decks.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "decks.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "doors.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "doors.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "estimate.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "estimate.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "fences.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "fences.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "flooring.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "flooring.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "index.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "index.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "kitchens.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "kitchens.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "painting.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "painting.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "process.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "process.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "reviews.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "reviews.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "services.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "services.html",
+      "language": "fr",
+      "status": "PASS"
+    },
+    {
+      "page": "why-nova.html",
+      "language": "en",
+      "status": "PASS"
+    },
+    {
+      "page": "why-nova.html",
+      "language": "fr",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "visualBrowserQA": "Not completed: cloud browser cannot access local server; file URLs prohibited. Responsive visual verification remains required."
+}

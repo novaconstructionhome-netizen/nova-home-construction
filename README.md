@@ -1,54 +1,33 @@
-# NOVA Home Construction
+# NOVA Home Construction — bilingual website
 
-A portable static website for NOVA Home Construction, Calgary.
+Static HTML, CSS and JavaScript. Upload the contents of this folder to the existing GitHub Pages repository. Keep all filenames and image paths unchanged. No build, paid API or backend is required. CNAME is preserved from the existing repository.
 
-## Website files
+## English / Canadian French
 
-All public files are at the repository root. No build or package installation is required.
-Preview locally with `python3 -m http.server 8000` and open http://localhost:8000.
-Deploy the repository root to a static host. Relative URLs support domain-root and repository-subpath hosting.
+- `translations.js` contains complete centralized `en` and `fr` dictionaries (487 keys).
+- `i18n.js` applies keyed text, accessible image/link descriptions, page titles and meta descriptions. Language is saved as `nova-language` in localStorage. English is the default.
+- Every HTML page has the same EN / FR controls. Switching retains the current page, form inputs and section; dropdowns and dynamically prepared enquiries also switch.
+- `data-i18n` identifies text. Attribute keys use `data-i18n-alt`, `data-i18n-aria-label`, `data-i18n-content` and related attributes. Do not remove these when editing.
+- Extend both dictionaries whenever adding text. Keep company names and contact details unchanged.
 
-## Features
+## Requested enhancements
 
-- 17 HTML pages and eight detailed service pages.
-- Native scroll-driven interior/exterior image reveal, subtle image zoom and reading progress.
-- Progressive cross-document View Transitions on supporting browsers.
-- Responsive navigation, visible keyboard focus, reduced-motion handling, native FAQ disclosure controls.
-- Estimate form prepares copyable project details; it does not submit to a server. Contact is by telephone.
+`enhancements.css` and `enhancements.js` add counters, a masked logo shimmer, contact icons and the review carousel. Existing image files are unchanged. The four editable counters are in index.html (`data-count` and `data-suffix`). Reduced-motion preferences are supported.
 
-## Editing
+The homepage `#customer-reviews` section contains 15 clearly labelled fictional SAMPLE reviews, never represented as genuine client feedback. Both review navigation links point there. The previous reviews.html URL remains functional as a landing page. Replace sample copy with approved real testimonials before presenting any review as genuine.
 
-- `styles.css`: original shared layout and refined architectural theme.
-- `cinematic.css`: scene composition, page transitions, FAQ and scope layouts.
-- `script.js`: navigation, reveal behavior and enquiry preparation.
-- `cinematic.js`: scroll progress and pinned image sequence.
-- ``: optimized architectural concept imagery.
+## Contact configuration
 
-Business telephone: +1 825-288-4475.
-No analytics, newsletter backend, email delivery, or payment processing is connected.
+In `site-config.js`, enter the real business email address and full HTTPS URLs for Instagram, Facebook and LinkedIn. Unconfigured links/cards stay hidden, avoiding invented or non-working destinations. The telephone link already works.
 
-## Imagery
+The existing estimate/contact form prepares copyable project details. It does NOT send an enquiry or email to the company. Both validation and prepared text are bilingual. A backend or form-delivery service would be needed to receive submissions automatically.
 
-The two assets named `calgary-*-concept.webp` were generated as architectural inspiration and are disclosed as such on the website. Supplied architectural images are not represented as verified completed NOVA projects. Replace with owner-verified project photography when available.
+## Verification
 
-## Validation
+All 17 pages passed DOM execution checks in English and French (34 combinations): keyed text and attributes, metadata, language preference, reversible switching, menu labels, required-field validation, prepared enquiries, preservation of entered values, review count and pause control. All local asset/page references resolve; all 52 image files match the original repository bytes. See verification.json.
 
-JavaScript syntax and local asset/page references were checked. Browser visual and interaction QA remains outstanding in this environment. Review mobile navigation, form preparation and the full scroll sequence on actual devices before public launch.
+Full visual browser QA was not completed: the cloud browser could not reach the local server, and file URLs are prohibited. Responsive rules cover the requested widths, but visual review at 320, 375, 390, 768, 1024 and 1440 pixels remains required. No claim is made that these viewport checks passed.
 
-## Design references
+## Upload
 
-Seven user-supplied TikTok references were opened and sampled visually. They showed immersive 3D scenes, rotating products, layered photography, image masks, oversized typography and smooth section transitions. This build adapts image layering and scroll progression; it does not implement a full 3D model or frame-by-frame video scrubbing.
-
-Implementation references:
-- https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API
-- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion
-
-## GitHub handoff
-
-Preserve the destination repository's existing configuration and deployment workflow when importing. The downloadable package includes website files at its root for easy import. The Sites identity and source credentials are excluded from that package.
-
-## Publish with GitHub Pages
-
-Unzip this archive and upload its contents to your repository, with index.html at the root. In GitHub, open Settings > Pages, select Deploy from a branch, then choose main and /(root). Save.
-
-Image files are deliberately at the root. Upload every file from this extracted ZIP alongside index.html. No image folders are required.
+Unzip the delivered archive, open its folder, select all contents and upload them to the existing repository root. Replace matching files. Include the four new runtime files and site-config.js. Do not upload the ZIP itself. Preserve CNAME. Wait for the GitHub Pages deployment to finish before refreshing the site.
