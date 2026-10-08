@@ -1,0 +1,19 @@
+NOVA UPLOAD REPAIR — 8 October 2026
+
+29 website files restore the missing folders and the two overwritten files.
+Your photos already match the complete website; no photo upload is needed.
+
+1. Extract this ZIP on your Mac.
+2. Open your nova-home-construction repository on GitHub. Stay at its main/root file list, where CNAME is shown.
+3. Choose Add file > Upload files.
+4. In Finder, open UPLOAD-CONTENTS. Select all items inside it. Drag those FILES AND FOLDERS together onto GitHub.
+   Do NOT open each subfolder and upload its index.html individually.
+   Do NOT upload the UPLOAD-CONTENTS wrapper folder or the ZIP itself.
+5. Before committing, verify that GitHub lists about/index.html, free-estimate/index.html, services/kitchen-renovations/index.html and vendor/three.module.js. If it only shows many index.html names without folders, stop: the hierarchy was lost.
+6. Click Commit changes. Wait until the Pages deployment succeeds, then refresh the site.
+
+Keep CNAME and existing images. No need to delete the repository or existing files.
+
+Diagnosis: current root index.html is actually the Our Process page. All 17 nested page index.html files are absent. The root worker.js was overwritten with backend code and the vendor folder is absent. Backend files were also flattened into the root. The repair restores correct files without deleting anything. The extra harmless root backend files can be tidied later.
+
+GitHub connector write access was rejected earlier, so this archive is not an automatic deployment. Online estimates still require the account configuration in the website README.
