@@ -16,3 +16,6 @@ if(group){
  function render(){I.apply(section);section.querySelectorAll('[data-review-number]').forEach(el=>el.textContent=I.t('review.customer',{number:el.dataset.reviewNumber}));}render();document.addEventListener('nova:language',render);
 }
 })();
+
+// Accessible close and Escape handling for the new contact disclosure.
+document.querySelectorAll('.floating-contact').forEach(menu=>{menu.querySelector('.contact-close')?.addEventListener('click',()=>{menu.open=false;menu.querySelector('summary').focus()});menu.addEventListener('keydown',e=>{if(e.key==='Escape'){menu.open=false;menu.querySelector('summary').focus()}})});
