@@ -112,3 +112,7 @@ Provider documentation:
 - https://developers.cloudflare.com/workers/wrangler/commands/
 - https://developers.cloudflare.com/turnstile/get-started/server-side-validation/
 - https://resend.com/docs/api-reference/emails/send-email
+
+
+## Legal pages update — October 10, 2026
+Read LEGAL-REVIEW-BEFORE-PUBLICATION.md before publishing. This update supersedes prior legal-page descriptions: /terms-and-conditions/ is now the terms page; /terms/ redirects there. The three legal pages are bilingual drafts awaiting owner and Alberta lawyer review. See verification.json for current results and limitations.

@@ -1,16 +1,13 @@
 {
-  "pages": 21,
-  "languageRuns": 42,
-  "localLinkErrors": 0,
-  "secretScan": "No recognized credential patterns found in current text files. Not a complete audit or history scan.",
-  "imagesPreserved": 52,
-  "homepageContentPreserved": true,
-  "backendTests": 4,
-  "browserVisualAndCSPEnforcement": "Not tested in a real browser",
-  "emailDelivery": "Not configured; not tested",
-  "responsiveCamera": {
-    "sizes": 18,
-    "pass": 18,
-    "kind": "3D camera projection checks, not physical-device or browser screenshots"
-  }
+  "fullPages": 22,
+  "pageLanguageDOMChecks": 44,
+  "DOMErrors": 0,
+  "localHTTPURLsChecked": 103,
+  "localHTTPErrors": [],
+  "imagesUnchanged": 52,
+  "homepageMainUnchanged": true,
+  "backendTestsPassed": 4,
+  "cameraGeometryCasesPassed": 18,
+  "browserVisualTesting": "Not completed: remote preview browser could not access local server. DOM and geometry checks are not physical-device or browser rendering tests.",
+  "deployment": "Not published; owner and lawyer review required."
 }
