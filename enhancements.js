@@ -19,3 +19,7 @@ if(group){
 
 // Accessible close and Escape handling for the new contact disclosure.
 document.querySelectorAll('.floating-contact').forEach(menu=>{menu.querySelector('.contact-close')?.addEventListener('click',()=>{menu.open=false;menu.querySelector('summary').focus()});menu.addEventListener('keydown',e=>{if(e.key==='Escape'){menu.open=false;menu.querySelector('summary').focus()}})});
+
+// Avoid spending animation frames on a hidden browser tab.
+function novaVisibility(){document.documentElement.classList.toggle('nova-page-hidden',document.hidden)}
+document.addEventListener('visibilitychange',novaVisibility);novaVisibility();

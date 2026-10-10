@@ -1,13 +1,16 @@
 {
-  "source": "Uploaded ZIP 2 design, ZIP 3 additions",
-  "pages": 19,
-  "languageRuns": 38,
-  "switchChecks": 114,
-  "httpResources": 86,
-  "httpErrors": [],
-  "backendSuitesPassed": 4,
-  "originalImagesPreserved": 52,
-  "browserVisualReview": "blocked: remote browser cannot reach local server",
-  "emailDelivery": "requires provider setup; mock acceptance/failure tests only",
-  "production404Status": "requires deployed GitHub Pages verification"
+  "pages": 21,
+  "languageRuns": 42,
+  "localLinkErrors": 0,
+  "secretScan": "No recognized credential patterns found in current text files. Not a complete audit or history scan.",
+  "imagesPreserved": 52,
+  "homepageContentPreserved": true,
+  "backendTests": 4,
+  "browserVisualAndCSPEnforcement": "Not tested in a real browser",
+  "emailDelivery": "Not configured; not tested",
+  "responsiveCamera": {
+    "sizes": 18,
+    "pass": 18,
+    "kind": "3D camera projection checks, not physical-device or browser screenshots"
+  }
 }

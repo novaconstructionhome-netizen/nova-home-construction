@@ -1,0 +1,113 @@
+{
+  "type": "camera geometry, not browser or physical-device testing",
+  "cases": [
+    {
+      "viewport": "320x568",
+      "scene": "288x300",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "375x667",
+      "scene": "343x300",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "390x844",
+      "scene": "358x300",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "430x932",
+      "scene": "398x300",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "568x320",
+      "scene": "536x300",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "844x390",
+      "scene": "796x300",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "768x1024",
+      "scene": "720x300",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "820x1180",
+      "scene": "772x311.6",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "1024x768",
+      "scene": "976x389.12",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "1180x820",
+      "scene": "1102x448.4",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "1280x800",
+      "scene": "1102x460",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "1366x768",
+      "scene": "1102x460",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "1440x900",
+      "scene": "1102x460",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "1512x982",
+      "scene": "1102x460",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "1728x1117",
+      "scene": "1102x460",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "1920x1080",
+      "scene": "1102x460",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "2560x1440",
+      "scene": "1102x460",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    },
+    {
+      "viewport": "3840x2160",
+      "scene": "1102x460",
+      "maxProjectedExtent": 0.909,
+      "pass": true
+    }
+  ]
+}

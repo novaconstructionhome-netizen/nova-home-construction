@@ -14,7 +14,7 @@
   }
   function schedule(){if(!scheduled){scheduled=true;requestAnimationFrame(render)}}
   function configure(){scene?.classList.toggle('is-enhanced',!reduced.matches);schedule()}
-  addEventListener('scroll',schedule,{passive:true});addEventListener('resize',schedule,{passive:true});reduced.addEventListener('change',configure);configure();
+  addEventListener('scroll',schedule,{passive:true});addEventListener('resize',schedule,{passive:true});reduced.addEventListener('change',configure);document.addEventListener('nova:language',schedule);addEventListener('load',schedule,{once:true});document.fonts?.ready.then(schedule);configure();
   // Preserve ordinary links, history, keyboard shortcuts, and browser navigation.
   // Cross-document transitions are progressively enhanced through CSS.
 })();

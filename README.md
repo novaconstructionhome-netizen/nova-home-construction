@@ -1,3 +1,7 @@
+Latest responsive fix: the 404 camera now fits the full scene with a 10% margin. Geometry checks passed at 18 portrait/landscape viewport sizes from 320 to 3840 pixels wide (responsive-verification.json). These are mathematical projection checks, not real-browser/device screenshots. The canvas pauses offscreen/when hidden, touch rendering is capped at 30 fps, pixel ratio is capped, and reduced motion stays static. Browser/physical-device visual validation is still outstanding.
+
+Latest update: email changed to info@novahomeconstruction.ca, contact menu says Call Us, estimate CALL panel removed, bilingual privacy/terms and security controls added. Read SECURITY-AND-PRIVACY.md before enabling the form; the new CSP requires your exact Worker origin. Current verification is in verification.json. Older test counts below describe earlier versions.
+
 # Verified update from your two uploaded ZIPs
 
 ZIP 2 is the design baseline. ZIP 3 provides the requested additional features. Original homepage content, core styles, cinematic scripts, logo and 52 images have been compared with ZIP 2 and preserved. New edits add an accessible close button to the floating contact menu, a consistent secondary-phone icon and your requested bilingual confirmation wording.
@@ -64,7 +68,7 @@ Use Cloudflare Workers, D1 and Turnstile with Resend. Accounts, DNS verification
    ```
 
    Preserve the existing `NOVA_CONTACT` assignment. Upload the edited file to GitHub.
-9. Submit a test enquiry in each language, including photos. Confirm it arrives at `Novaconstruction.home@gmail.com`; check spam, attachments, all field values, and reply-to. Test invalid inputs, failed security verification and a disconnected network. These are activation gates, not tests already completed here.
+9. Submit a test enquiry in each language, including photos. Confirm it arrives at `info@novahomeconstruction.ca`; check spam, attachments, all field values, and reply-to. Test invalid inputs, failed security verification and a disconnected network. These are activation gates, not tests already completed here.
 
 ### Submission behavior and privacy
 
